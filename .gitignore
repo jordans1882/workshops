@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+tda-rips-tutorial/tda-rips-tutorial_files
+.Rproj.user
+.Rhistory
+rmd_posts/_posts/*.md
+rmd_drafts/_posts/*.md
+init.r
+figure/
