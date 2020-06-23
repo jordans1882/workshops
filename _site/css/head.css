@@ -1,0 +1,11 @@
+#jumbotron {
+  background: url("https://raw.githubusercontent.com/comptag/t4ds/master/img/bg.jpg") no-repeat center center scroll;
+  background-size: 100% 100%; }
+  @media (min-width: 800px) {
+    #jumbotron {
+      height: 110vh; } }
+  @media (max-width: 800px) {
+    #jumbotron {
+      height: 100%; } }
+  #jumbotron div#blurBox {
+    background-color: rgba(0, 0, 0, 0.6); }
